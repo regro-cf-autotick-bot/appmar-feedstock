@@ -26,7 +26,7 @@ requirements:
     - cfgrib
     - gdal
     - kneed
-    - matplotlib-base ==3.2
+    - matplotlib-base ==3.2.*
     - numpy
     - pandas
     - python >=3.7
